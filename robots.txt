@@ -1,0 +1,27 @@
+User-agent: Yandex
+Disallow: 
+Host: https://search.sam-ya-zanyat.ru/
+Sitemap: https://search.sam-ya-zanyat.ru/sitemap.xml
+
+User-agent: YandexImages
+Disallow: /
+User-agent: Mail.Ru
+Disallow: /
+User-agent: StackRambler
+Disallow: /
+User-agent: Googlebot
+Disallow: /
+User-agent: googlebot-image
+Disallow: /
+User-agent: googlebot-mobile
+Disallow: /
+User-agent: Aport
+Disallow: /
+User-agent: msnbot
+Disallow: /
+User-agent: psbot
+Disallow: /
+User-agent: yahoo-slurp
+Disallow: /
+User-agent: yahoo-mmcrawler
+Disallow: /
